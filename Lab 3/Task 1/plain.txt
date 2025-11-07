@@ -1,0 +1,3 @@
+This is a simple text file created for INS Lab task 3.
+Author: Amit Kumar Sharma
+Reg: 2020831009
