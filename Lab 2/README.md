@@ -16,12 +16,8 @@ This repository contains code, data and a report template for **Lab 2: Attacking
 - Python 3.8+
 - No external pip packages required (pure Python).
 
-## How to run (VS Code)
+  .venv\Scripts\activate # windows
 
-1. Open the repository folder in VS Code.
-2. (Optional) Create & activate a virtual environment:
-   ```bash
-   python -m venv .venv
-   source .venv/bin/activate   # mac/linux
-   .venv\Scripts\activate      # windows
-   ```
+  ```
+
+  ```
