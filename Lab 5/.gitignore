@@ -1,0 +1,20 @@
+# Ignore all private keys
+*.key
+
+# Ignore CA private directory
+private/
+
+# Ignore certificate request and temp files
+*.csr
+*.pem
+
+# Ignore CA database files
+index.txt
+serial
+newcerts/
+crl/
+certs/
+
+# OS files
+.DS_Store
+Thumbs.db
